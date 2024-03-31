@@ -9,6 +9,14 @@
   },
   "dependencies": {
     "@nuxt/content": "^2.12.1",
-    "nuxt": "^3.11.0"
+    "@nuxtjs/mdc": "^0.6.1",
+    "nuxt": "^3.11.0",
+    "rehype-parse": "^9.0.0",
+    "remark-extract-frontmatter": "^3.2.0",
+    "remark-frontmatter": "^5.0.0",
+    "remark-parse": "^11.0.0",
+    "remark-rehype": "^11.1.0",
+    "unified": "^11.0.4",
+    "yaml": "^2.4.1"
   }
 }
